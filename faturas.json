@@ -1,0 +1,23 @@
+[
+  {
+    "arquivoNome": "hipercard_•••• 7627_fatura_2022-09_220920_220022.pdf",
+    "titular": "ELIANE SOARES DE MELO",
+    "cpf": "084.770.974-45",
+    "vencimento": "18/09/2022",
+    "valorTotal": "R$ 1.183,97"
+  },
+  {
+    "arquivoNome": "hipercard_•••• 7627_fatura_2022-08.pdf",
+    "titular": "ELIANE SOARES DE MELO",
+    "cpf": "084.770.974-45",
+    "vencimento": "18/08/2022",
+    "valorTotal": "R$ 1.302,26"
+  },
+  {
+    "arquivoNome": "hipercard_•••• 7627_fatura_2022-05.pdf",
+    "titular": "ELIANE SOARES DE MELO",
+    "cpf": "084.770.974-45",
+    "vencimento": "18/05/2022",
+    "valorTotal": "R$ 1.119,71"
+  }
+]
